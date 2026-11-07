@@ -23,6 +23,7 @@
 !/Content/**/*.uasset
 !/Content/**/*.umap
 !/Content/**/*.ico
+!/Content/Movies/**/*.mp4
 
 # Allow any files from /RawContent dir.
 # Any file in /RawContent dir will be managed by git lfs.
